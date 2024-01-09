@@ -49,6 +49,7 @@
 		54A76A192B4DFD92006607FF /* Lab1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		54A76A1D2B4DFD92006607FF /* Lab1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1UITests.swift; sourceTree = "<group>"; };
 		54A76A1F2B4DFD92006607FF /* Lab1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		54A76A2C2B4E0A95006607FF /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 		54A769FB2B4DFD8F006607FF /* Lab1 */ = {
 			isa = PBXGroup;
 			children = (
+				54A76A2C2B4E0A95006607FF /* MyPlayground.playground */,
 				54A769FC2B4DFD8F006607FF /* AppDelegate.swift */,
 				54A769FE2B4DFD8F006607FF /* SceneDelegate.swift */,
 				54A76A002B4DFD8F006607FF /* ViewController.swift */,
